@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c11a8146d7b5d194ba4ee50849c2771c, type: 3}
+  m_Name: Red Grenade Attack
+  m_EditorClassIdentifier: 
+  _damage: 500
+  _explosionRadius: 4
+  _speed: 15
+  _explosionVFX: {fileID: 2220750559294569297, guid: 037e3f668f10e2c499258675f08dbab7, type: 3}

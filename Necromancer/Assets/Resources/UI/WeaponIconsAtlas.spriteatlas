@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WeaponIconsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 7abc2be42ac2d1343927635aee1139cb, type: 3}
+    totalSpriteSurfaceArea: 211568
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -2442474351149293280, guid: 7abc2be42ac2d1343927635aee1139cb, type: 3}
+  - {fileID: 7126942697416915395, guid: 7abc2be42ac2d1343927635aee1139cb, type: 3}
+  - {fileID: 5382596023271126659, guid: 7abc2be42ac2d1343927635aee1139cb, type: 3}
+  - {fileID: 7765518135182277480, guid: 7abc2be42ac2d1343927635aee1139cb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - takeitalive_disactive
+  - shovel_active
+  - takeitalive_active
+  - shovel_disactive
+  m_Tag: WeaponIconsAtlas
+  m_IsVariant: 0
